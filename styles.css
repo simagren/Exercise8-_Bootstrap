@@ -1,0 +1,47 @@
+body{
+    padding-top: 5rem;
+
+    background-color: #f4e1d2;
+    background-image: url(https://picsum.photos/id/766/3840/2160);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center-card{
+    display: flex;
+    justify-content: center;
+}
+
+#mainContent
+{
+    background-color: #f4e1d2;
+}
+
+
+
+.bg-primary{
+    background-color:#6F4E37;
+}
+
+.bg-navbar{
+    background-color:#6F4E37;
+}
+
+.navbar a.nav-link{
+    color: #f1e6d4;
+}
+
+.navbar-toggler-icon{
+    background-color: #f1e6d4;
+}
+
+.text-bright{
+    color: #f5f5f5;
+}
+
+.bg-card{
+    background-color: #f0d3be;
+}
+
+
